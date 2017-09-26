@@ -1,0 +1,8 @@
+{
+  "name": "tonal-extensions",
+  "private": true,
+  "version": "1.0",
+  "devDependencies": {
+    "lerna": "^2.0.0"
+  }
+}

@@ -1,2 +1,3 @@
-# tonal-extensions
-A multi-package repo with tonal module extensions
+# tonal incubator packages
+
+Some ideas implemented, but not ready for production.
